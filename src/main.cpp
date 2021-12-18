@@ -13,7 +13,7 @@
 const char* ssid = "Industrial-Hub";
 const char* password = "Dissertation-IIoT";
 // Declaring ip address for mqtt broker aswell as the topics it needs to publish.
-const char* mqtt_broker = "192.168.0.102";
+const char* mqtt_broker = "REDACTED";
 const char* topic_temp = "Temperature";
 const char* topic_hum = "Humidity";
 // Declaring the username and password to publish topic data to the designated mqtt broker.
